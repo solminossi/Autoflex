@@ -1,0 +1,72 @@
+<!DOCTYPEhtml >
+< html  lang =" pt-BR " >
+
+< cabeça >
+	< meta  charset =" UTF-8 " >
+	< meta  http-equiv = " Conteúdo compatível com X-UA " =" IE=edge " >
+	< meta  name =" viewport " content =" largura=largura do dispositivo, escala inicial=1.0 " >
+	< link  rel =" preconnect " href =" https://fonts.googleapis.com " >
+	< link  rel =" preconnect " href =" https://fonts.gstatic.com " crossorigin >
+	< link  href =" https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap " rel =" folha de estilo " >
+	< título > Autoflex </ título >
+</ cabeça >
+
+< corpo >
+	< section  class =" topPage "" >
+		< classe div  =" contêiner " >
+			< div  class =" areaNav " >
+				< ul >
+					< li > início </ li >
+					< li > Produtos </ li >
+					< li > insumos </ li >
+				</ ul >
+                </ div >
+	</ seção >
+
+	
+	<!-- --------------------- SOBRE ------------------------ ------- -->
+	< section  class =" aboutHome " >
+		< classe div  =" contêiner " >
+			< div  class =" txtSobre " >
+				< div  class =" titleSobre " >
+					< span  class =" rowDiv " > </ span >
+				</ div >
+			< div  class =" imgSobre " >
+				< div  class =" imgAreaAbout " > </ div >
+			</ div >
+		</ div >
+	</ seção >
+
+	<!-- -------------------------- NOSSOS PRODUTOS ------------------ ---- -->
+
+
+	< section  class =" nossosProdutos " >
+		< classe div  =" contêiner " >
+			< div  class =" titleWidget " >
+				< div  class =" rowDiv " > </ div >
+			</ div >
+				< div  class =" cardItem " >
+					< div  class =" imgAreaCard " >
+						< img  src ="" alt ="" >
+					</ div >
+					< div  class =" infoProduto " >
+						< h3  class =" nameProduct " > </ h3 >
+						< p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, lectus non eleifend maleuada, odio felis elementum massa, nec vehicula enim risus at dolor. </ p >
+					</ div >
+					< div  class =" footerProduto " >
+						< div  class =" preçoProduto " >
+							< span > a partir de </ span >
+							< span  class =" value " > R$ 300,00 </ span >
+						</ div >
+						< div  class =" btnProduto " >
+						</ div >
+					</ div >
+				</ div >
+			</ div >
+
+		</ div >
+	</ seção >
+</ corpo >
+
+</ html >
+
